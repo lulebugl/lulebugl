@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">🎮 so_long</a>
+      <a href="https://github.com/lulebugl/so_long">🎮 so_long</a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="so_long"/>
