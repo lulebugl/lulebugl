@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**lulebugl/lulebugl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://gist.github.com/user-attachments/assets/ebbf53a4-97b8-4ccf-a2e5-53f0df868fb8)
+<h1 align="center">42 School Projects </h1>
+<p align="center">
+  <a href="https://42.fr/en/homepage/"><img src="https://img.shields.io/badge/School-42-blue?style=flat-square&logo=42" alt="42 School"/></a>
+  <img src="https://img.shields.io/badge/Focus-C%20Programming-brightgreen?style=flat-square" alt="Main focus"/>
+  <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" alt="Status"/>
+</p>
+<h1 align="center">42 School Projects </h1>
+<p align="center">
+  <a href="https://42.fr/en/homepage/"><img src="https://img.shields.io/badge/School-42-blue?style=flat-square&logo=42" alt="42 School"/></a>
+  <img src="https://img.shields.io/badge/Focus-C%20Programming-brightgreen?style=flat-square" alt="Main focus"/>
+  <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" alt="Status"/>
+</p>
