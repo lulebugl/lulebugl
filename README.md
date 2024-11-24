@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="Libft"/>
     </td>
     <td align="center">
-      <a href="https://cdn.intra.42.fr/pdf/pdf/68888/en.subject.pdf">Subject</a>
+      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/libft.pdf">Subject</a>
     </td>
     <td>
       Your very first own library. Recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus.
@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="ft_printf"/>
     </td>
     <td align="center">
-      <a href="#">Subject</a>
+      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/ft_printf.pdf">Subject</a>
     </td>
     <td>
       Recode printf(). Learn about variadic arguments and structure your code to be highly modular.
@@ -51,13 +51,13 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/lulebugl/get-next-line">📑 get_next_line</a>
+      <a href="https://github.com/lulebugl/get_next_line">📑 get_next_line</a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="get_next_line"/>
     </td>
     <td align="center">
-      <a href="#">Subject</a>
+      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/get_next_line.pdf">Subject</a>
     </td>
     <td>
       Code a function that returns a line read from a file descriptor. Introduce the concept of static variables and file manipulation.
@@ -71,7 +71,7 @@
       <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="minitalk"/>
     </td>
     <td align="center">
-      <a href="#">Subject</a>
+      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/minitalk.pdf">Subject</a>
     </td>
     <td>
       Create a small data exchange program using UNIX signals. Learn about bit manipulation and process communication.
@@ -85,7 +85,7 @@
       <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="so_long"/>
     </td>
     <td align="center">
-      <a href="#">Subject</a>
+      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/so_long.pdf">Subject</a>
     </td>
     <td>
       Create a small 2D game using the MinilibX library. Learn about window management, events, colors, and textures.
@@ -99,7 +99,7 @@
       <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="push_swap"/>
     </td>
     <td align="center">
-      <a href="#">Subject</a>
+      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/push_swap.pdf">Subject</a>
     </td>
     <td>
       Sort data on a stack with a limited set of instructions. Create an efficient sorting algorithm with minimal operations.
@@ -127,7 +127,7 @@
       <img src="https://img.shields.io/badge/locked-red?style=flat-square" alt="minishell"/>
     </td>
     <td align="center">
-      <a href="#">Subject</a>
+      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/minishell.pdf">Subject</a>
     </td>
     <td>
       Create a simple shell. Learn about processes, file descriptors, signals, and command parsing.
