@@ -93,7 +93,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">🔄 push_swap</a>
+      <a href="https://github.com/lulebugl/push_swap">🔄 push_swap</a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="push_swap"/>
