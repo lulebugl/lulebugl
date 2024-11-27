@@ -82,7 +82,7 @@
       <a href="https://github.com/lulebugl/so_long">🎮 so_long</a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="so_long"/>
+      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="so_long"/>
     </td>
     <td align="center">
       <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/so_long.pdf">Subject</a>
