@@ -65,7 +65,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/lulebugl/pipex">🔌 pipex</a>
+      <a href="https://github.com/lulebugl/pipex">│ pipex</a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="minitalk"/>
