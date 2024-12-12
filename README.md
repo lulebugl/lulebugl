@@ -65,16 +65,16 @@
   </tr>
   <tr>
     <td>
-      <a href="#">🗣️ minitalk</a>
+      <a href="https://github.com/lulebugl/pipex">🗣️ pipex</a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="minitalk"/>
     </td>
     <td align="center">
-      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/minitalk.pdf">Subject</a>
+      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/pipex.pdf">Subject</a>
     </td>
     <td>
-      Create a small data exchange program using UNIX signals. Learn about bit manipulation and process communication.
+      A program that simulates shell pipes, handling file redirection and command execution. Supports both standard pipes and here_doc functionality using processes and Unix pipes.
     </td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@
       <a href="https://github.com/lulebugl/push_swap">🔄 push_swap</a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="push_swap"/>
+      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="push_swap"/>
     </td>
     <td align="center">
       <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/push_swap.pdf">Subject</a>
