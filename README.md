@@ -68,7 +68,7 @@
       <a href="https://github.com/lulebugl/pipex">🔌 pipex</a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="minitalk"/>
+      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="minitalk"/>
     </td>
     <td align="center">
       <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/pipex.pdf">Subject</a>
