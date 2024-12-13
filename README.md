@@ -110,7 +110,7 @@
       <a href="#">🤔 philosophers</a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/locked-red?style=flat-square" alt="philosophers"/>
+      <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="philosophers"/>
     </td>
     <td align="center">
       <a href="#">Subject</a>
@@ -124,7 +124,7 @@
       <a href="#">🐚 minishell</a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/locked-red?style=flat-square" alt="minishell"/>
+      <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="minishell"/>
     </td>
     <td align="center">
       <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/minishell.pdf">Subject</a>
