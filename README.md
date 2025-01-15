@@ -107,10 +107,10 @@
   </tr>
   <tr>
     <td>
-      <a href="#">🤔 philosophers</a>
+      <a href="https://github.com/lulebugl/Philosophers">🤔 philosophers</a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="philosophers"/>
+      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="philosophers"/>
     </td>
     <td align="center">
       <a href="#">Subject</a>
@@ -121,7 +121,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">🐚 minishell</a>
+      <a href="https://github.com/lulebugl/minishell">🐚 minishell</a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="minishell"/>
