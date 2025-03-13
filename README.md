@@ -135,13 +135,13 @@
   </tr>
   <tr>
     <td>
-      <a href="#">🎯 cub3d</a>
+      <a href="https://github.com/lulebugl/cub3D">🎯 cub3d</a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/locked-red?style=flat-square" alt="cub3d"/>
     </td>
     <td align="center">
-      <a href="#">Subject</a>
+      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/cub3D.pdf">Subject</a>
     </td>
     <td>
       Create a 3D game engine using raycasting. Inspired by Wolfenstein 3D, learn about graphics programming and optimization.
