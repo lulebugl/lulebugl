@@ -124,27 +124,13 @@
       <a href="https://github.com/lulebugl/minishell">🐚 minishell</a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/pending-lightgrey?style=flat-square" alt="minishell"/>
+      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="minishell"/>
     </td>
     <td align="center">
       <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/minishell.pdf">Subject</a>
     </td>
     <td>
       Create a simple shell. Learn about processes, file descriptors, signals, and command parsing.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#">🌐 NetPractice</a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/locked-red?style=flat-square" alt="NetPractice"/>
-    </td>
-    <td align="center">
-      <a href="#">Subject</a>
-    </td>
-    <td>
-      System administration exercise about solving networking problems. Learn about TCP/IP addressing and network configuration.
     </td>
   </tr>
   <tr>
