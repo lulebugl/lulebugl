@@ -138,7 +138,7 @@
       <a href="https://github.com/lulebugl/cub3D">🎯 cub3d</a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/locked-red?style=flat-square" alt="cub3d"/>
+      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="cub3d"/>
     </td>
     <td align="center">
       <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/cub3D.pdf">Subject</a>
@@ -152,7 +152,7 @@
       <a href="https://github.com/lulebugl/cpp_modules">➕ CPP Modules</a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/locked-red?style=flat-square" alt="CPP Modules"/>
+      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="CPP Modules"/>
     </td>
     <td align="center">
       <a href="#">Subject</a>
@@ -163,7 +163,7 @@
   </tr>
   <tr>
     <td>
-      <a href="#">🐳 Inception</a>
+      <a href="https://github.com/lulebugl/inception">🐳 Inception</a>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/locked-red?style=flat-square" alt="Inception"/>
@@ -177,16 +177,16 @@
   </tr>
   <tr>
     <td>
-      <a href="#">💬 IRC</a>
+      <a href="https://github.com/lulebugl/webserv">💬 Webserv</a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/locked-red?style=flat-square" alt="IRC"/>
+      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="Webserv"/>
     </td>
     <td align="center">
       <a href="#">Subject</a>
     </td>
     <td>
-      Create your own IRC server. Learn about network programming, client-server architecture, and IRC protocol.
+      Creating a webserver in c++98 to learn http, socket and Non-blocking I/O.
     </td>
   </tr>
   <tr>
