@@ -1,206 +1,25 @@
 <img src="https://raw.githubusercontent.com/lulebugl/lulebugl/main/.github/images/1299084.jpg" alt="Top Image"/>
-<h1 align="center">42 School Projects </h1>
-<p align="center">
-  <a href="https://42.fr/en/homepage/"><img src="https://img.shields.io/badge/School-42-blue?style=flat-square&logo=42" alt="42 School"/></a>
-  <img src="https://img.shields.io/badge/Focus-C%20Programming-brightgreen?style=flat-square" alt="Main focus"/>
-  <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" alt="Status"/>
-</p>
-<h3> 📚 Common Core Progress</h3>
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>Project</strong>
-    </td>
-    <td align="center">
-      <strong>Status</strong>
-    </td>
-    <td align="center">
-      <strong>Subject</strong>
-    </td>
-    <td align="center">
-      <strong>Description</strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lulebugl/libft">🔠 Libft</a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="Libft"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/libft.pdf">Subject</a>
-    </td>
-    <td>
-      Your very first own library. Recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lulebugl/ft_printf">🖨️ ft_printf</a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="ft_printf"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/ft_printf.pdf">Subject</a>
-    </td>
-    <td>
-      Recode printf(). Learn about variadic arguments and structure your code to be highly modular.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lulebugl/get_next_line">📑 get_next_line</a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="get_next_line"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/get_next_line.pdf">Subject</a>
-    </td>
-    <td>
-      Code a function that returns a line read from a file descriptor. Introduce the concept of static variables and file manipulation.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lulebugl/pipex">🔌 pipex</a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="minitalk"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/pipex.pdf">Subject</a>
-    </td>
-    <td>
-      A program that simulates shell pipes, handling file redirection and command execution. Supports both standard pipes and here_doc functionality using processes and Unix pipes.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lulebugl/so_long">🎮 so_long</a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="so_long"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/so_long.pdf">Subject</a>
-    </td>
-    <td>
-      Create a small 2D game using the MinilibX library. Learn about window management, events, colors, and textures.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lulebugl/push_swap">🔄 push_swap</a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="push_swap"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/push_swap.pdf">Subject</a>
-    </td>
-    <td>
-      Sort data on a stack with a limited set of instructions. Create an efficient sorting algorithm with minimal operations.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lulebugl/Philosophers">🤔 philosophers</a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="philosophers"/>
-    </td>
-    <td align="center">
-      <a href="#">Subject</a>
-    </td>
-    <td>
-      Solve the dining philosophers problem. Learn about threading, mutexes, and process synchronization.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lulebugl/minishell">🐚 minishell</a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="minishell"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/minishell.pdf">Subject</a>
-    </td>
-    <td>
-      Create a simple shell. Learn about processes, file descriptors, signals, and command parsing.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lulebugl/cub3D">🎯 cub3d</a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="cub3d"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lulebugl/lulebugl/blob/main/documentation/subjects/cub3D.pdf">Subject</a>
-    </td>
-    <td>
-      Create a 3D game engine using raycasting. Inspired by Wolfenstein 3D, learn about graphics programming and optimization.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lulebugl/cpp_modules">➕ CPP Modules</a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="CPP Modules"/>
-    </td>
-    <td align="center">
-      <a href="#">Subject</a>
-    </td>
-    <td>
-      Introduction to Object-Oriented Programming with C++. Learn about classes, inheritance, and polymorphism.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lulebugl/inception">🐳 Inception</a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/locked-red?style=flat-square" alt="Inception"/>
-    </td>
-    <td align="center">
-      <a href="#">Subject</a>
-    </td>
-    <td>
-      System administration project using Docker. Set up a small infrastructure with multiple services using containers.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lulebugl/webserv">💬 Webserv</a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/completed-success?style=flat-square" alt="Webserv"/>
-    </td>
-    <td align="center">
-      <a href="#">Subject</a>
-    </td>
-    <td>
-      Creating a webserver in c++98 to learn http, socket and Non-blocking I/O.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#">🎮 ft_transcendence</a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/locked-red?style=flat-square" alt="ft_transcendence"/>
-    </td>
-    <td align="center">
-      <a href="#">Subject</a>
-    </td>
-    <td>
-      Create a website for a Pong contest. Final project involving web development, real-time gaming, and user authentication.
-    </td>
-  </tr>
-</table>
+
+## Hey, I'm Lucas 👋
+
+Developer who likes building but more importantly creating useful things. I trained at [42](https://42.fr), where I spent my time learning by doing and debugging. I found myself enjoying the process more than I thought.
+
+Currently exploring web development, AI and automation.
+
+---
+
+**Tech:** C, C++, TypeScript, React, Next.js, Docker, Linux
+
+---
+
+**Things I've built:**
+
+- [Transcendence](https://github.com/lulebugl/Transcendence) — 3D multiplayer Pong with React, Fastify and SQLite
+- [Webserv](https://github.com/lulebugl/webserv) — HTTP/1.1 server from scratch in C++
+- [Minishell](https://github.com/lulebugl/minishell) — Bash inspired shell with custom parser
+- [cub3D](https://github.com/lulebugl/cub3D) — Wolfenstein-style ray-casting game
+
+
+---
+
+Open to junior roles. Feel free to [say hi](mailto:lucas.lebugle@gmail.com) !
