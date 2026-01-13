@@ -8,9 +8,10 @@ Currently exploring web development, AI and automation.
 
 ---
 
-**Languages:** C, C++, TypeScript, Javascript HTML, CSS, SQLite
-**Frameworks:** React, Next.js, Fastify
-**Tools:** Git, GitHub, Docker, Docker Compose, Make, Linux, Unix shell, Figma, Notion
+- **Languages:** C, C++, TypeScript, JavaScript, HTML, CSS, SQLite
+- **Frameworks:** React, Next.js, Fastify
+- **Tools:** Git, GitHub, Docker, Docker Compose, Make, Linux, Unix Shell, Figma, Notion
+
 ---
 
 **Things I've built:**
