@@ -2,14 +2,15 @@
 
 ## Hey, I'm Lucas 👋
 
-Developer who likes building but more importantly creating useful things. I trained at [42](https://42.fr), where I spent my time learning by doing and debugging. I found myself enjoying the process more than I thought.
+I'm a Developer who likes building useful things. I trained at [42](https://42.fr), learning by doing, reverse-engineering and debugging. Eventually founding myself enjoying the process more than I thought I would.
 
 Currently exploring web development, AI and automation.
 
 ---
 
-**Tech:** C, C++, TypeScript, React, Next.js, Docker, Linux
-
+**Languages:** C, C++, TypeScript, Javascript HTML, CSS, SQLite
+**Frameworks:** React, Next.js, Fastify
+**Tools:** Git, GitHub, Docker, Docker Compose, Make, Linux, Unix shell, Figma, Notion
 ---
 
 **Things I've built:**
