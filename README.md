@@ -18,8 +18,8 @@ Currently exploring web development, AI and automation.
 
 - [Transcendence](https://github.com/lulebugl/Transcendence) — 3D multiplayer Pong with React, Fastify and SQLite
 - [Webserv](https://github.com/lulebugl/webserv) — HTTP/1.1 server from scratch in C++
-- [Minishell](https://github.com/lulebugl/minishell) — Bash inspired shell with custom parser
-- [cub3D](https://github.com/lulebugl/cub3D) — Wolfenstein-style ray-casting game
+- [Minishell](https://github.com/lulebugl/minishell) — Bash inspired shell with custom parser in C
+- [cub3D](https://github.com/lulebugl/cub3D) — Wolfenstein-style ray-casting game in C
 
 
 ---
